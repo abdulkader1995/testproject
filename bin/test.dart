@@ -8,4 +8,4 @@ double calculateArea(double leaght, double width, double base){
   print(area);
    return area;
 }
-var calculateArea_ = (double length, double width, double base) => (length*width);
+var calculateArea_ = (double length, double width, double base) => (0.5*length*width);
